@@ -20,6 +20,8 @@ Anik Majumder | 242-115-002
 
 Nobbendu Das Niloy | 242-115-028
 
+
+
 Description:
 This assignment consists of two physics problems related to diffraction and interference.
 
