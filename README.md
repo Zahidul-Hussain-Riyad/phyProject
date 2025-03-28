@@ -42,7 +42,7 @@ This assignment consists of two physics problems related to diffraction and inte
 
 >Used given information about a third-order bright spot for green light.
 
-.Applied the diffraction grating formula to find the required angle.
+>Applied the diffraction grating formula to find the required angle.
 
 Implementation:
 
