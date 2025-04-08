@@ -1,4 +1,6 @@
 #include<stdio.h>
+#include<math.h>
+
 int main ( )
 {
     float wavelength_nm, slit_width, wavelength_um, theta;
